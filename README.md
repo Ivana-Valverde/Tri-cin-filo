@@ -5,5 +5,5 @@ Este proyecto es un repositorio de preguntas que desafian al participante a pone
 - HTML
 - Javascript
 - CSS
-## Enlace Replit: url(https://replit.com/@IvanaValverde/Ada-Lovelace-Tricinefilo#index.html)
+[Enlace a nuestro Replit](https://replit.com/@IvanaValverde/Ada-Lovelace-Tricinefilo#index.html)
 
